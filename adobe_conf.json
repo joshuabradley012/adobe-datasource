@@ -1,0 +1,7 @@
+{
+  "adobe_api": "https://analytics.adobe.io/api/",
+  "adobe_api_1-4": "https://api.omniture.com/admin/1.4/rest/",
+  "company_id": "COMPANY_ID",
+  "client_id": "CLIENT_ID",
+  "client_secret": "CLIENT_SECRET",
+}

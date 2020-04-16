@@ -1,0 +1,6 @@
+{
+  "iss": "ORGANIZATION_ID",
+  "sub": "TECHNICAL_ACCOUNT_ID",
+  "https://ims-na1.adobelogin.com/s/ent_analytics_bulk_ingest_sdk": true,
+  "aud": "API_KEY"
+}
