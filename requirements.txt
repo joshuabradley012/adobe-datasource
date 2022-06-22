@@ -5,7 +5,7 @@ cryptography==2.9
 DateTime==4.3
 idna==2.9
 jwt==1.0.0
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 pycparser==2.20
 python-dateutil==2.8.1
